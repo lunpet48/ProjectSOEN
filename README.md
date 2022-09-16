@@ -1,2 +1,3 @@
 # ProjectSOEN
-Project môn công nghệ phần mềm. trạng thái: chưa hoàn thành.
+Project môn công nghệ phần mềm. 
+Trạng thái: chưa hoàn thành.
